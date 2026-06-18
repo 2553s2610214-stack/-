@@ -1,2 +1,3 @@
 streamlit
 google-genai
+GEMINI_API_KEY = "본인의_구글_AI_스튜디오_발급_API_키"
